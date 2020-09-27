@@ -1,0 +1,18 @@
+C:\Projects_CSharp\Examples\WindowsFormsApplication339\WindowsFormsApplication339\obj\x86\Debug\WindowsFormsApplication339.Form1.resources
+C:\Projects_CSharp\Examples\WindowsFormsApplication339\WindowsFormsApplication339\obj\x86\Debug\WindowsFormsApplication339.Properties.Resources.resources
+C:\Projects_CSharp\Examples\WindowsFormsApplication339\WindowsFormsApplication339\obj\x86\Debug\WindowsFormsApplication339.csproj.GenerateResource.Cache
+C:\Projects_CSharp\Examples\WindowsFormsApplication339\WindowsFormsApplication339\bin\Debug\WindowsFormsApplication339.exe
+C:\Projects_CSharp\Examples\WindowsFormsApplication339\WindowsFormsApplication339\bin\Debug\WindowsFormsApplication339.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication339\WindowsFormsApplication339\obj\x86\Debug\WindowsFormsApplication339.exe
+C:\Projects_CSharp\Examples\WindowsFormsApplication339\WindowsFormsApplication339\obj\x86\Debug\WindowsFormsApplication339.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication339\WindowsFormsApplication339\obj\x86\Debug\WindowsFormsApplication339.csprojResolveAssemblyReference.cache
+C:\Users\Виктор Турнаев\Desktop\WindowsFormsApplication339\WindowsFormsApplication339\obj\x86\Debug\WindowsFormsApplication339.exe
+C:\Users\Виктор Турнаев\Desktop\WindowsFormsApplication339\WindowsFormsApplication339\obj\x86\Debug\WindowsFormsApplication339.pdb
+C:\Users\Виктор Турнаев\Desktop\WindowsFormsApplication339\WindowsFormsApplication339\bin\Debug\WindowsFormsApplication339.exe
+C:\Users\Виктор Турнаев\Desktop\WindowsFormsApplication339\WindowsFormsApplication339\bin\Debug\WindowsFormsApplication339.pdb
+C:\Users\Виктор Турнаев\Desktop\WindowsFormsApplication339\WindowsFormsApplication339\obj\x86\Debug\WindowsFormsApplication339.csprojResolveAssemblyReference.cache
+C:\Users\Виктор Турнаев\Desktop\WindowsFormsApplication339\WindowsFormsApplication339\obj\x86\Debug\WindowsFormsApplication339.Form1.resources
+C:\Users\Виктор Турнаев\Desktop\WindowsFormsApplication339\WindowsFormsApplication339\obj\x86\Debug\WindowsFormsApplication339.Properties.Resources.resources
+C:\Users\Виктор Турнаев\Desktop\WindowsFormsApplication339\WindowsFormsApplication339\obj\x86\Debug\WindowsFormsApplication339.csproj.GenerateResource.Cache
+C:\Users\Виктор Турнаев\Desktop\WindowsFormsApplication339\WindowsFormsApplication339\obj\x86\Debug\WindowsFormsApplication339.Form2.resources
+C:\Users\Виктор Турнаев\Desktop\WindowsFormsApplication339\WindowsFormsApplication339\obj\x86\Debug\WindowsFormsApplication339.Form3.resources
